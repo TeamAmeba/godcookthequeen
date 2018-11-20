@@ -17,6 +17,8 @@ Pertenece al género de los simuladores.
 #### 1.4. Público objetivo
 Es un juego para todos los públicos. Las mecánicas son sencillas, perfectas para jugadores casuales. La clasificación Pegi será Pegi OK.
 
+![alt text](http://www.aevi.org.es/web/wp-content/uploads/2015/12/pegi_ok.jpg)
+
 #### 1.5. Jugabilidad
 El juego contará con tres partes bien diferenciadas:
 - Selección de ingredientes: Después de haber elegido la receta a cocinar, lo primero que aparecerá frente al jugador será una mesa con los ingredientes necesarios. En esta pantalla se podrá seleccionar cualquier ingrediente, lo que llevará a un minijuego en el que se preparará ese ingrediente para dejarlo listo para añadirlo al plato o cocinarlo.
@@ -30,8 +32,6 @@ Se utilizará una estética medieval, con colores grises y marrones, a excepció
 
 #### 1.7. Alcance
 Se realizarán 2 recetas jugables, además de una que servirá de tutorial. Las recetas estarán completas y se podrán jugar de forma competitiva con otro jugador.
-
-![alt text](http://www.aevi.org.es/web/wp-content/uploads/2015/12/pegi_ok.jpg)
 
 
 #### 1.8. Reparto de roles

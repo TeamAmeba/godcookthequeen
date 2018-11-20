@@ -17,8 +17,6 @@ Pertenece al género de los simuladores.
 #### 1.4. Público objetivo
 Es un juego para todos los públicos. Las mecánicas son sencillas, perfectas para jugadores casuales. La clasificación Pegi será Pegi OK.
 
-![alt text](http://www.aevi.org.es/web/wp-content/uploads/2015/12/pegi_ok.jpg)
-
 #### 1.5. Jugabilidad
 El juego contará con tres partes bien diferenciadas:
 - Selección de ingredientes: Después de haber elegido la receta a cocinar, lo primero que aparecerá frente al jugador será una mesa con los ingredientes necesarios. En esta pantalla se podrá seleccionar cualquier ingrediente, lo que llevará a un minijuego en el que se preparará ese ingrediente para dejarlo listo para añadirlo al plato o cocinarlo.
@@ -32,6 +30,8 @@ Se utilizará una estética medieval, con colores grises y marrones, a excepció
 
 #### 1.7. Alcance
 Se realizarán 2 recetas jugables, además de una que servirá de tutorial. Las recetas estarán completas y se podrán jugar de forma competitiva con otro jugador.
+
+![alt text](http://www.aevi.org.es/web/wp-content/uploads/2015/12/pegi_ok.jpg)
 
 
 #### 1.8. Reparto de roles
@@ -68,23 +68,23 @@ A continuación se muestra el diseño de interfaz con las diferentes pantallas q
 #### 3.1. Diagrama de flujo
 En el siguiente diagrama se muestran las diversas pantallas y cómo se conectan entre sí:
 
-![diagrama de flujo](https://github.com/teamameba/bewarethecandykids/blob/master/img/diagramadeflujo.jpg)
+![diagrama de flujo](https://raw.githubusercontent.com/TeamAmeba/bewarethecandykids/master/img/diagramadeflujo.jpg)
 
 
 #### 3.2 Pantallas de juego
 A continuación se visualizan las pantallas de selección de ingredientes, de minijuego y de cocinar:
 
-![ingredientes](https://github.com/teamameba/godcookthequeen/blob/master/img/ingredientes.jpg)
-![minijuegos](https://github.com/teamameba/godcookthequeen/blob/master/img/minijuego.jpg)
-![cocinar](https://github.com/teamameba/godcookthequeen/blob/master/img/cocinar.jpg)
+![ingredientes](https://raw.githubusercontent.com/TeamAmeba/godcookthequeen/master/img/ingredientes.jpg)
+![minijuegos](https://raw.githubusercontent.com/TeamAmeba/godcookthequeen/master/img/minijuego.jpg)
+![cocinar](https://raw.githubusercontent.com/TeamAmeba/godcookthequeen/master/img/cocinar.jpg)
 
 
 #### 3.3 Pantalla de Título, Créditos y Ranking
 La pantalla de resultados mostrará la puntuación del jugador, si ha ganado o perdido y el ranking TOP 10.
 
-![pantalla titulo](https://github.com/teamameba/godcookthequeen/blob/master/img/titulo.jpg)
-![ranking](https://github.com/teamameba/godcookthequeen/blob/master/img/ranking.jpg)
-![creditos](https://github.com/teamameba/godcookthequeen/blob/master/img/creditos.jpg)
+![pantalla titulo](https://raw.githubusercontent.com/TeamAmeba/godcookthequeen/master/img/titulo.jpg)
+![ranking](https://raw.githubusercontent.com/TeamAmeba/godcookthequeen/master/img/ranking.jpg)
+![creditos](https://raw.githubusercontent.com/TeamAmeba/godcookthequeen/master/img/creditos.jpg)
 
 
 ## 4.Arte 

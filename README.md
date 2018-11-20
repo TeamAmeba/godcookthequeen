@@ -65,12 +65,24 @@ A continuación se muestra el diseño de interfaz con las diferentes pantallas q
 #### 3.1. Diagrama de flujo
 En el siguiente diagrama se muestran las diversas pantallas y cómo se conectan entre sí:
 
+![alt text](https://github.com/TeamAmeba/bewarethecandykids/blob/master/img/diagramadeflujo.jpg "Diagrama de flujo")
+
 
 #### 3.2 Pantallas de juego
 A continuación se visualizan las pantallas de selección de ingredientes, de minijuego y de cocinar:
 
-#### 3.3 Créditos y Ranking
+![alt text](https://github.com/TeamAmeba/godcookthequeen/blob/master/img/ingredientes.jpg "Ingredientes")
+![alt text](https://github.com/TeamAmeba/godcookthequeen/blob/master/img/minijuego.jpg "Minijuego")
+![alt text](https://github.com/TeamAmeba/godcookthequeen/blob/master/img/cocinar.jpg "Cocinar")
+
+
+#### 3.3 Pantalla de Título, Créditos y Ranking
 La pantalla de resultados mostrará la puntuación del jugador, si ha ganado o perdido y el ranking TOP 10.
+
+![alt text](https://github.com/TeamAmeba/godcookthequeen/blob/master/img/titulo.jpg "Pantalla de título")
+![alt text](https://github.com/TeamAmeba/godcookthequeen/blob/master/img/ranking.jpg "Ranking")
+![alt text](https://github.com/TeamAmeba/godcookthequeen/blob/master/img/creditos.jpg "Creditos")
+
 
 ## 4.Arte 
 Es un videojuego de cocina multijugador que transcurre en la Edad Media. Al suceder en esta época, el juego contará con una paleta de colores grises y ocres, pero con colores ligeramente saturados y llamativos en los ingredientes para llamar la atención de todos los públicos. 

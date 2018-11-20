@@ -68,7 +68,7 @@ A continuación se muestra el diseño de interfaz con las diferentes pantallas q
 #### 3.1. Diagrama de flujo
 En el siguiente diagrama se muestran las diversas pantallas y cómo se conectan entre sí:
 
-![diagrama de flujo](https://github.com/TeamAmeba/bewarethecandykids/blob/master/img/diagramadeflujo.jpg "diagrama de flujo")
+![diagrama de flujo](https://github.com/TeamAmeba/bewarethecandykids/blob/master/img/diagramadeflujo.jpg)
 
 
 #### 3.2 Pantallas de juego

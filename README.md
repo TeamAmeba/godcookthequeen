@@ -31,12 +31,15 @@ Se utilizará una estética medieval, con colores grises y marrones, a excepció
 #### 1.7. Alcance
 Se realizarán 2 recetas jugables, además de una que servirá de tutorial. Las recetas estarán completas y se podrán jugar de forma competitiva con otro jugador.
 
+![alt text](http://www.aevi.org.es/web/wp-content/uploads/2015/12/pegi_ok.jpg)
+
+
 #### 1.8. Reparto de roles
-- Ángel: arte 2D/3D
-- Alberto: programación
-- Dani: arte 2D/3D - música y sonido - programación
-- Juan: game design - programación
-- Víctor: web - programación
+- Ángel: Arte 2D/3D
+- Alberto: Programación
+- Dani: Arte 2D/3D - Música y Sonido - Programación
+- Juan: Game design - Programación
+- Víctor: Web - Programación
 
 ## 2.Mecánicas de juego
 #### 2.1. Jugabilidad
@@ -97,12 +100,12 @@ Logo
 GUI: 
 - Puntero: Para la versión de web, el videojuego contará con un puntero con unos colores acordes a la temática.
 - Indicadores de acción: Guían al jugador mostrándole cómo debe de realizar los movimientos en los ingredientes. Poseerán transparencias para no taparlos:
-- Flecha arriba
-- Flecha abajo
-- Flecha derecha
-- Flecha izquierda
-- Flecha circular
-- Indicador de toque
+	- Flecha arriba
+	- Flecha abajo
+	- Flecha derecha
+	- Flecha izquierda
+	- Flecha circular
+	- Indicador de toque
 - Icono de utensilio: Se situará en una esquina de la pantalla y mostrará el utensilio que se está utilizando en ese momento.
 
 
@@ -164,4 +167,13 @@ Trataremos de crear un ambiente sonoro realista y satisfactorio que responda a l
 
 ## Anexo
 #### Referencias artísticas
+**Okami**
+![alt text](https://www.instant-gaming.com/images/products/2297/screenshot/2297-5.jpg)
+
+**Donut County**
+![alt text](http://www.donutcounty.com/images/screenshots/dc_donutshop.png)
+
+**BorderLands**
+![alt text](http://blogs-images.forbes.com/insertcoin/files/2015/05/borderlands.jpg)
+
 

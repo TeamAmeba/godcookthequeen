@@ -68,23 +68,23 @@ A continuación se muestra el diseño de interfaz con las diferentes pantallas q
 #### 3.1. Diagrama de flujo
 En el siguiente diagrama se muestran las diversas pantallas y cómo se conectan entre sí:
 
-![diagrama de flujo](https://github.com/teamameba/bewarethecandykids/blob/master/img/diagramadeflujo.jpg "Diagrama de Flujo")
+![diagrama de flujo](https://github.com/teamameba/bewarethecandykids/blob/master/img/diagramadeflujo.jpg)
 
 
 #### 3.2 Pantallas de juego
 A continuación se visualizan las pantallas de selección de ingredientes, de minijuego y de cocinar:
 
-![ingredientes](https://github.com/teamameba/godcookthequeen/blob/master/img/ingredientes.jpg "Ingredientes")
-![minijuegos](https://github.com/teamameba/godcookthequeen/blob/master/img/minijuego.jpg "Minijuego")
-![cocinar](https://github.com/teamameba/godcookthequeen/blob/master/img/cocinar.jpg "Cocinar")
+![ingredientes](https://github.com/teamameba/godcookthequeen/blob/master/img/ingredientes.jpg)
+![minijuegos](https://github.com/teamameba/godcookthequeen/blob/master/img/minijuego.jpg)
+![cocinar](https://github.com/teamameba/godcookthequeen/blob/master/img/cocinar.jpg)
 
 
 #### 3.3 Pantalla de Título, Créditos y Ranking
 La pantalla de resultados mostrará la puntuación del jugador, si ha ganado o perdido y el ranking TOP 10.
 
-![pantalla titulo](https://github.com/teamameba/godcookthequeen/blob/master/img/titulo.jpg "Pantalla de título")
-![ranking](https://github.com/teamameba/godcookthequeen/blob/master/img/ranking.jpg "Ranking")
-![creditos](https://github.com/teamameba/godcookthequeen/blob/master/img/creditos.jpg "Creditos")
+![pantalla titulo](https://github.com/teamameba/godcookthequeen/blob/master/img/titulo.jpg)
+![ranking](https://github.com/teamameba/godcookthequeen/blob/master/img/ranking.jpg)
+![creditos](https://github.com/teamameba/godcookthequeen/blob/master/img/creditos.jpg)
 
 
 ## 4.Arte 
